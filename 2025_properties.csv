@@ -1,4 +1,4 @@
-Year,Cod_district,Name_district,Code_barrio,Name_barrio,Seccion_censal,Sup_media_m2
+Year,Code_district,Name_district,Code_barrio,Name_barrio,Seccion_censal,Sup_media_m2
 2025,1,Ciutat Vella,1,el Raval,1,76.7
 2025,1,Ciutat Vella,1,el Raval,2,68.1
 2025,1,Ciutat Vella,1,el Raval,3,59.1
