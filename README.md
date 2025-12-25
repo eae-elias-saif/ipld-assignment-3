@@ -1,6 +1,10 @@
 # ipld-assignment-3
 Assignment for eae/ipld class - December 2025
 
+Team members:
+Elias Saifildin
+Pelin Bilgiç
+
 Instructions:
 Find a dataset of your interest (you can use Kaggle, UCI Machine Learning Repository, or any other public source). The dataset should be in CSV format and contain between 500 and 2000 rows and between 5 and 10 columns. If you find one with more data, feel free to filter it down to the required size.
 
